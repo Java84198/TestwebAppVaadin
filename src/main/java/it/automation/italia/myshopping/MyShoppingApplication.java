@@ -10,7 +10,7 @@ import com.vaadin.flow.component.page.AppShellConfigurator;
  * Configures Spring Boot and Vaadin theme.
  */
 @SpringBootApplication
-@Theme("my-theme") // Sets custom Vaadin theme
+
 public class MyShoppingApplication implements AppShellConfigurator {
 
     /**
