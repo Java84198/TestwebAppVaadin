@@ -1,0 +1,26 @@
+# My Shopping 2025
+
+A modern shopping application built with Spring Boot and Vaadin framework.
+
+## Application Overview
+This is a web-based shopping platform that provides:
+- Secure user authentication system
+- Clean and intuitive user interface
+- Responsive design with custom theming
+
+## Features
+- User login and registration functionality
+- Personalized user dashboard
+- Custom theme with professional color scheme
+
+
+## Technical Stack
+- Backend: Spring Boot, Jakarta EE
+- Frontend: Vaadin Flow
+- Theme: Custom "my-theme"
+- Database: Not implemented yet
+
+## Getting Started
+1. Launch the application
+2. Use the provided test credentials or register a new account
+3. Access your personalized shopping dashboard
