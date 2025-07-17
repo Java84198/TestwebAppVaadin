@@ -1,6 +1,5 @@
 package it.automation.italia.myshopping.views;
 
-import com.nimbusds.jose.shaded.gson.JsonArray;
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.html.H1;
 import com.vaadin.flow.component.html.Paragraph;
